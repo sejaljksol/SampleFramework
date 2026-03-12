@@ -12,5 +12,8 @@ public class HelloWorld {
     public func printMessage(msg: String) {
         print(msg)
     }
+    public func printHello() {
+        print("Hello")
+    }
 
 }
